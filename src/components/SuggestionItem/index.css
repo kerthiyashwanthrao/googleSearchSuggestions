@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.suggestion {
+  color: #475569;
+  font-size: 15px;
+}
+.img {
+  color: #64748b;
+  height: 20px;
+  width: 20px;
+}
+.btn {
+  cursor: pointer;
+  background-color: transparent;
+  border-width: 0px;
+}
